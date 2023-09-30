@@ -1,0 +1,19 @@
+[
+    {
+        "title":"Chocklet",
+        "description":"I like Chocklet",
+        "price":"50rs"
+    },
+
+    {
+        "title":"Strawbery",
+        "description":"I like Strawbery",
+        "price":"90rs"
+    },
+
+    {
+        "title":"Vanilla",
+        "description":"I like Vanilla",
+        "price":"50rs"
+    }
+]
